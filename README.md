@@ -1,14 +1,13 @@
-# 🧠 Ads Click-Through Rate (CTR) Analysis and Forecasting
+# Ads Click-Through Rate (CTR) Analysis and Forecasting
 
-## 📘 Project Overview
-This project analyzes and forecasts the **Click-Through Rate (CTR)** of an online advertising campaign.  
-CTR measures how effectively ads engage users — calculated as the ratio of **clicks** to **impressions**.
+## Project Overview
+This project analyzes and forecasts the **Click-Through Rate (CTR)** of an online advertising campaign. CTR measures how effectively ads engage users calculated as the ratio of **clicks** to **impressions**.
 
 By exploring trends, visualizing patterns, and forecasting future CTR values, this project provides insights into ad performance and user engagement behavior.
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 | Column | Description |
 |--------|--------------|
@@ -23,7 +22,7 @@ CTR = \frac{Clicks}{Impressions} \times 100
 
 ---
 
-## 🔍 Analysis Steps
+##  Analysis Steps
 
 ### 1️⃣ Distribution of Clicks and Impressions Over Time
 **Objective:** Analyze engagement and exposure trends.  
