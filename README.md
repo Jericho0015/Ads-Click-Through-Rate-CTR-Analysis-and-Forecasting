@@ -15,10 +15,6 @@ By exploring trends, visualizing patterns, and forecasting future CTR values, th
 | **Clicks** | Number of times users clicked the ads |
 | **Impressions** | Number of times ads were displayed to users |
 
-**CTR formula:**
-\[
-CTR = \frac{Clicks}{Impressions} \times 100
-\]
 
 ---
 
@@ -32,8 +28,7 @@ CTR = \frac{Clicks}{Impressions} \times 100
 - Impressions and clicks show **parallel upward trends**, indicating proportional growth.
 - Seasonal fluctuations highlight varying ad visibility.
 
-📈 *Example Plot:*  
-![Clicks & Impressions Over Time](images/clicks_impressions_trend.png)
+![Clicks & Impressions Over Time](https://github.com/Jericho0015/Ads-Click-Through-Rate-CTR-Analysis-and-Forecasting/blob/main/Images/Clicks%20%26%20Impressions%20Over%20Time.PNG)
 
 ---
 
@@ -45,8 +40,7 @@ CTR = \frac{Clicks}{Impressions} \times 100
 - CTR increases when impressions stabilize.
 - Sharp dips may reflect ad fatigue or audience targeting changes.
 
-📊 *Example Plot:*  
-![CTR Over Time](images/ctr_trend.png)
+![CTR Over Time](https://github.com/Jericho0015/Ads-Click-Through-Rate-CTR-Analysis-and-Forecasting/blob/main/Images/Click%20through%20Rate%20CTR%20Over%20Time.PNG)
 
 ---
 
@@ -57,8 +51,7 @@ CTR = \frac{Clicks}{Impressions} \times 100
 **Findings:**
 - CTR is typically **higher during weekends**, indicating stronger engagement during leisure periods.
 
-📅 *Example Plot:*  
-![CTR by Day of Week](images/ctr_weekday_comparison.png)
+![CTR by Day of Week](https://github.com/Jericho0015/Ads-Click-Through-Rate-CTR-Analysis-and-Forecasting/blob/main/Images/CTR%20by%20Day%20of%20Week.PNG)
 
 ---
 
@@ -87,8 +80,7 @@ These features improve pattern recognition and time-series modeling.
 - Model effectively captures seasonal patterns in CTR.
 - Forecast shows gradual improvement trend.
 
-📉 *Example Plot:*  
-![CTR Forecast](images/ctr_forecast.png)
+![CTR Forecast](https://github.com/Jericho0015/Ads-Click-Through-Rate-CTR-Analysis-and-Forecasting/blob/main/Images/CTR%20Forecasting.PNG)
 
 ---
 
